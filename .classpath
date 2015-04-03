@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/Haoran/jet/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="/Users/Haoran/jet/lib/fanseparser-0.2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/Haoran/jet/lib/joda-time-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Haoran/jet/lib/junit-4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Haoran/jet/lib/jwnl12.jar"/>
+	<classpathentry kind="lib" path="/Users/Haoran/jet/lib/jyaml-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Haoran/jet/lib/mallet-crf.jar"/>
+	<classpathentry kind="lib" path="/Users/Haoran/jet/lib/mallet.jar"/>
+	<classpathentry kind="lib" path="/Users/Haoran/jet/lib/opennlp-yh-maxent-3.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Haoran/jet/lib/parser-stub.jar"/>
+	<classpathentry kind="lib" path="/Users/Haoran/jet/lib/pnuts.jar"/>
+	<classpathentry kind="lib" path="/Users/Haoran/jet/lib/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/Users/Haoran/jet/lib/slf4j-simple-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/Users/Haoran/jet/lib/trove.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
